@@ -1,6 +1,6 @@
 # Predictive Study on Coronary Artery Disease in Diabetic Patients using Machine Learning
 
-- 해당 Repository는 <b>[머신러닝을 활용한 당뇨병 환자의
+- 해당 Repository는 <b>[머신 러닝을 활용한 당뇨병 환자의
   관상 동맥 질환 모델 개발]</b> 프로젝트를 위해서 필요한 데이터셋을 추출하기 위해 <b>PostgreSQL</b>을 활용하여 <b>MIMIC-IV Database</b>를 엔지니어링한 SQL을 업로드 해둔 Repository입니다.
 
 ## 📄 Project Description
