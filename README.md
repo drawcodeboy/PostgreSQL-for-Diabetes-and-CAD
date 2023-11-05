@@ -5,7 +5,7 @@
 
 ## 📄 Project Description
 
-- 추후 추가 예정 (블로그를 통해 작성 중)
+[Doby's Lab (BLOG): 머신 러닝을 활용한 당뇨병 환자의 관상 동맥 질환 모델 개발](https://draw-code-boy.tistory.com/578)
 
 ## 📄 Query Description
 
