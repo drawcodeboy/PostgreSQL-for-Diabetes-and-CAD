@@ -1,5 +1,10 @@
 # Predictive Study on Coronary Artery Disease in Diabetic Patients using Machine Learning
 
+### 머신 러닝을 활용한 당뇨병 환자의 관상 동맥 질환 모델 개발
+
+> <b>2023년도 한국정보통신학회 추계종합학술발표회 학부생 논문</b>
+
+- [Paper Link](./PAPER/머신러닝을%20활용한%20당뇨병%20환자의%20관상%20동맥%20질환%20모델%20개발.pdf)
 - 해당 Repository는 <b>[머신 러닝을 활용한 당뇨병 환자의
   관상 동맥 질환 모델 개발]</b> 프로젝트를 위해서 필요한 데이터셋을 추출하기 위해 <b>PostgreSQL</b>을 활용하여 <b>MIMIC-IV Database</b>를 엔지니어링한 SQL을 업로드 해둔 Repository입니다.
 
@@ -87,6 +92,7 @@
 ---
 
 ## ✅ RESULT
+
 - 총 당뇨병 환자: 19,400명
 - CAD 환자: 3,929명
 - No CAD 환자: 15,471명
