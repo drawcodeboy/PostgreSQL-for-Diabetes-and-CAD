@@ -4,7 +4,10 @@
 
 <div align="center"><b>⭐ 2023년도 한국통신학회 추계종합학술발표회 학부생논문 ⭐</b></div>
 
-- [Paper Link](./PAPER/머신러닝을%20활용한%20당뇨병%20환자의%20관상%20동맥%20질환%20모델%20개발.pdf)
+<div align="center"><a href="./PAPER/머신러닝을%20활용한%20당뇨병%20환자의%20관상%20동맥%20질환%20모델%20개발.pdf">Paper Link</a></div>
+
+## 📄 Summary
+
 - 해당 Repository는 <b>[머신 러닝을 활용한 당뇨병 환자의
   관상 동맥 질환 모델 개발]</b> 프로젝트를 위해서 필요한 데이터셋을 추출하기 위해 <b>PostgreSQL</b>을 활용하여 <b>MIMIC-IV Database</b>를 엔지니어링한 SQL 쿼리문을 업로드 해둔 Repository입니다.
 
