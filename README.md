@@ -2,9 +2,7 @@
 
 ### 머신 러닝을 활용한 당뇨병 환자의 관상 동맥 질환 모델 개발
 
-<div align="center"><b>⭐ 2023년도 한국통신학회 추계종합학술발표회 학부생논문 ⭐</b></div>
-
-<div align="center"><a href="./PAPER/머신러닝을%20활용한%20당뇨병%20환자의%20관상%20동맥%20질환%20모델%20개발.pdf">Paper Link</a></div>
+<div align="center"><a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11667724"><b>⭐ 2023년도 한국통신학회 추계종합학술발표회 학부생논문 ⭐</b></a></div>
 
 ## 📄 Summary
 
